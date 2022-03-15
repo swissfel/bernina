@@ -12,6 +12,8 @@ Collection of important documentation and help for the Bernina instrument at the
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+      docs/beamline.md
+      docs/endstations.md
 
 
 
