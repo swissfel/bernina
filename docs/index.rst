@@ -10,10 +10,11 @@ SwissFEL Bernina Help and HowTos
 Collection of important documentation and help for the Bernina instrument at the Free Electron Laser source SwissFEL of the Paul Scherrer Insitute. 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
-      docs/beamline.md
-      docs/endstations.md
+   
+   source/beamline.md
+   source/endstations.md
 
 
 
