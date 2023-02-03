@@ -19,6 +19,7 @@ Interested scientists are highly encouraged to contact the beamline staff in con
    source/endstations.md
    source/laser.md
    source/exp_data.md
+   source/comp_users.md
    source/howtos.md
 
 Indices and tables
