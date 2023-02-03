@@ -4,10 +4,10 @@ Bernina is equipped with a 20 mJ Ti:Sapphire laser system typically used for cre
 
 
 
-|  Primary pump source   | 800 nm, 35 fs FWHM, 20 mJ (Ti:Sapphire)  |
-|---|---|
-|Secondary pump sources |Wavelength range 	| Pulse energy / max. Field |	Pulse length | 
+
+|  Primary pump source   | <td colspan=3>800 nm, 35 fs FWHM, 20 mJ (Ti:Sapphire)  |
 |---|---|---|---|
+|Secondary pump sources |Wavelength range 	| Pulse energy / max. Field |	Pulse length | 
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
