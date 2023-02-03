@@ -2,7 +2,7 @@
 
 Different endstations can be positioned into the beam interaction position on rails transverse to the FEL beam propagation direction. Those can be the flexible Bernina Diffractometer platforms, but also special user-provided equipment.    
 
-## Diffractoeter configurations
+## Diffractometer configurations
 Two similar main endstation platforms are presently available at Bernina:
 - Xray diffractometer (XRD) with two detector circles.
 - General purpose station (GPS) with a single detector circle.
@@ -21,4 +21,4 @@ Following Diffractometer configurations can be combined for experiments at Berni
 ### Dispersive X-ray emission analysis
 (Von Hamos crystals)
 ### Resonant inelastic x-ray scattering analyzer
-(Dicesd crystal analyzer setup in polarisation)
+(Diced crystal analyzer setup)
